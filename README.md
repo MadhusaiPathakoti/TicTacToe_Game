@@ -18,8 +18,10 @@ This is a classic Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript. 
 5. Click the "Restart" button to start a new game.
 
 ## Screenshots
+![tictaktoe_winner](https://github.com/MadhusaiPathakoti/TicTacToe_Game/assets/83114463/20c467ca-d572-48fe-845f-7128eac094e1)
 
 
+![Tictaktoe_draw](https://github.com/MadhusaiPathakoti/TicTacToe_Game/assets/83114463/be8e1a1f-ff20-4f6e-afcb-060fdcd4d142)
 
 ## Technologies Used
 
